@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+	<Texture>images/ToeJam_Transparent</Texture>
+	<Regions>
+		<Region name="ToeJam" x="22" y="81" width="26" height="35" />
+		<Region name="ToeJam1" x="55" y="81" width="24" height="33" />
+		<!-- Add more regions as needed -->
+	</Regions>
+	<Animations>
+		<Animation name="ToeJamAnimation" delay="200">
+			<Frame region="ToeJam" />
+			<Frame region="ToeJam1" />
+			<!-- Add more frames here if you have -->
+		</Animation>
+	</Animations>
+</TextureAtlas>

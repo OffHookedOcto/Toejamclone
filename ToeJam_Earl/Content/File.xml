@@ -1,0 +1,7 @@
+﻿<TextureAtlas>
+	<Texture>images/ToeJam_Transparent</Texture>
+	<Regions>
+		<Region name="ToeJam" x="0" y="0" width="20" height="20" />
+		<Region name="ToeJam1" x="0" y="0" width="20" height="20" />
+	</Regions>
+</TextureAtlas>
