@@ -1,29 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\coltp\\onedrive\\documents\\videogameprogramming\\toejam_earl\\toejam_earl\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\coltp\\onedrive\\documents\\videogameprogramming\\toejam_earl\\toejam_earl\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coltp\\Downloads\\DrawingASpriteAndTileMap (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\physics\\collisions\\narrowphase\\collisionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\physics\\collisions\\narrowphase\\collisionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\coltp\\onedrive\\documents\\videogameprogramming\\toejam_earl\\toejam_earl\\graphics\\animatedsprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\graphics\\animatedsprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\gameplay\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\gameplay\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\coltp\\onedrive\\documents\\videogameprogramming\\toejam_earl\\toejam_earl\\graphics\\textureatlas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\gameplay\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\gameplay\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\gameplay\\componentarraymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\gameplay\\componentarraymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\audio\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\audio\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\gameplay\\gameplaycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\gameplay\\gameplaycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\input\\keyinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\input\\keyinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\physics\\nullphysicsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\physics\\nullphysicsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\physics\\physicscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\physics\\physicscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\graphics\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\graphics\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\graphics\\textureatlas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\graphics\\textureatlas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\coltp\\onedrive\\documents\\videogameprogramming\\toejam_earl\\toejam_earl\\graphics\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\graphics\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\graphics\\animatedsprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\graphics\\animatedsprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|c:\\users\\owner\\documents\\github\\toejamclone\\toejam_earl\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FDAC2DCE-2F8D-4572-9789-5E1B2AA3247F}|ToeJam_Earl\\ToeJam_Earl.csproj|solutionrelative:toejam_earl\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,53 +74,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Game1.cs",
               "RelativeDocumentMoniker": "ToeJam_Earl\\Game1.cs",
-              "ToolTip": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\Game1.cs",
-              "RelativeToolTip": "ToeJam_Earl\\Game1.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEcAAABCAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Game1.cs*",
+              "RelativeToolTip": "ToeJam_Earl\\Game1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T17:33:07.45Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DrawingASpriteAndTileMap (1).cs",
-              "DocumentMoniker": "C:\\Users\\coltp\\Downloads\\DrawingASpriteAndTileMap (1).cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\DrawingASpriteAndTileMap (1).cs",
-              "ToolTip": "C:\\Users\\coltp\\Downloads\\DrawingASpriteAndTileMap (1).cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\DrawingASpriteAndTileMap (1).cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T21:09:19.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\GameObject.cs",
-              "RelativeDocumentMoniker": "ToeJam_Earl\\GameObject.cs",
-              "ToolTip": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\GameObject.cs",
-              "RelativeToolTip": "ToeJam_Earl\\GameObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T19:41:00.647Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Audio\\Audio.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Audio\\Audio.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Audio\\Audio.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Audio\\Audio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:22:09.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Gameplay\\Arrow.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Gameplay\\Arrow.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Gameplay\\Arrow.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Gameplay\\Arrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:21:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionObject.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Physics\\Collisions\\NarrowPhase\\CollisionObject.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Physics\\Collisions\\NarrowPhase\\CollisionObject.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Physics\\Collisions\\NarrowPhase\\CollisionObject.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Physics\\Collisions\\NarrowPhase\\CollisionObject.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:21:33.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComponentArrayMap.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Gameplay\\ComponentArrayMap.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Gameplay\\ComponentArrayMap.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Gameplay\\ComponentArrayMap.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Gameplay\\ComponentArrayMap.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA4wDUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:21:20.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Gameplay\\GameObject.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Gameplay\\GameObject.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Gameplay\\GameObject.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Gameplay\\GameObject.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:20:48.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameplayComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Gameplay\\GameplayComponent.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Gameplay\\GameplayComponent.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Gameplay\\GameplayComponent.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Gameplay\\GameplayComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:20:21.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Input\\InputManager.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Input\\InputManager.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Input\\InputManager.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Input\\InputManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:19:08.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KeyInput.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Input\\KeyInput.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Input\\KeyInput.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Input\\KeyInput.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Input\\KeyInput.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:18:14.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NullPhysicsObject.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Physics\\NullPhysicsObject.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Physics\\NullPhysicsObject.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Physics\\NullPhysicsObject.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Physics\\NullPhysicsObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:18:06.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhysicsComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Physics\\PhysicsComponent.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\Physics\\PhysicsComponent.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Physics\\PhysicsComponent.cs",
+              "RelativeToolTip": "ToeJam_Earl\\Physics\\PhysicsComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:17:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\.gitignore",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\.gitignore",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\.gitignore",
+              "RelativeToolTip": "ToeJam_Earl\\.gitignore",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-14T01:21:42.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\GameObject.cs",
+              "RelativeDocumentMoniker": "ToeJam_Earl\\GameObject.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\GameObject.cs",
+              "RelativeToolTip": "ToeJam_Earl\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T19:41:00.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AnimatedSprites.cs",
-              "DocumentMoniker": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\Graphics\\AnimatedSprites.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Graphics\\AnimatedSprites.cs",
               "RelativeDocumentMoniker": "ToeJam_Earl\\Graphics\\AnimatedSprites.cs",
-              "ToolTip": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\Graphics\\AnimatedSprites.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Graphics\\AnimatedSprites.cs",
               "RelativeToolTip": "ToeJam_Earl\\Graphics\\AnimatedSprites.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,25 +256,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "TextureAtlas.cs",
-              "DocumentMoniker": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\Graphics\\TextureAtlas.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Graphics\\TextureAtlas.cs",
               "RelativeDocumentMoniker": "ToeJam_Earl\\Graphics\\TextureAtlas.cs",
-              "ToolTip": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\Graphics\\TextureAtlas.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Graphics\\TextureAtlas.cs",
               "RelativeToolTip": "ToeJam_Earl\\Graphics\\TextureAtlas.cs",
-              "ViewState": "AgIAANMAAAAAAAAAAAAswO4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANMAAAAAAAAAAAA9wO4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T04:49:48.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Animation.cs",
-              "DocumentMoniker": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\Graphics\\Animation.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Graphics\\Animation.cs",
               "RelativeDocumentMoniker": "ToeJam_Earl\\Graphics\\Animation.cs",
-              "ToolTip": "C:\\Users\\coltp\\OneDrive\\Documents\\VideoGameProgramming\\ToeJam_Earl\\ToeJam_Earl\\Graphics\\Animation.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Toejamclone\\ToeJam_Earl\\Graphics\\Animation.cs",
               "RelativeToolTip": "ToeJam_Earl\\Graphics\\Animation.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T18:26:16.065Z"
             }

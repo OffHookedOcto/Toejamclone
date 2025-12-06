@@ -76,7 +76,7 @@ public class Sprite
     /// <summary>
     /// Creates a new sprite.
     /// </summary>
-    public Sprite() { }
+    public Sprite(Texture2D texture) { }
 
     /// <summary>
     /// Creates a new sprite using the specified source texture region.
@@ -85,6 +85,10 @@ public class Sprite
     public Sprite(TextureRegion region)
     {
         Region = region;
+    }
+
+    public Sprite(Texture2D texture, Rectangle rect) : this(texture)
+    {
     }
 
     /// <summary>
